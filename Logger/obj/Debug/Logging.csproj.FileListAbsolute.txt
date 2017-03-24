@@ -1,0 +1,10 @@
+C:\Users\marvinpjr\Dropbox\Marvin\Code\BikiniDareScraper\Logger\bin\Debug\Logger.dll
+C:\Users\marvinpjr\Dropbox\Marvin\Code\BikiniDareScraper\Logger\bin\Debug\Logger.pdb
+C:\Users\marvinpjr\Dropbox\Marvin\Code\BikiniDareScraper\Logger\obj\Debug\Logging.csprojResolveAssemblyReference.cache
+C:\Users\marvinpjr\Dropbox\Marvin\Code\BikiniDareScraper\Logger\obj\Debug\Logger.dll
+C:\Users\marvinpjr\Dropbox\Marvin\Code\BikiniDareScraper\Logger\obj\Debug\Logger.pdb
+C:\Users\marvinpjr\Dropbox\Marvin\Code\GitHub\bds\Logger\bin\Debug\Logger.dll
+C:\Users\marvinpjr\Dropbox\Marvin\Code\GitHub\bds\Logger\bin\Debug\Logger.pdb
+C:\Users\marvinpjr\Dropbox\Marvin\Code\GitHub\bds\Logger\obj\Debug\Logger.dll
+C:\Users\marvinpjr\Dropbox\Marvin\Code\GitHub\bds\Logger\obj\Debug\Logger.pdb
+C:\Users\marvinpjr\Dropbox\Marvin\Code\GitHub\bds\Logger\obj\Debug\Logging.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\marvinpjr\Dropbox\Marvin\Code\BikiniDareScraper\BikiniDareScraper\bin\Debug\BikiniDareScraper.dll
+C:\Users\marvinpjr\Dropbox\Marvin\Code\BikiniDareScraper\BikiniDareScraper\bin\Debug\BikiniDareScraper.pdb
+C:\Users\marvinpjr\Dropbox\Marvin\Code\BikiniDareScraper\BikiniDareScraper\obj\Debug\BikiniDareScraper.csprojResolveAssemblyReference.cache
+C:\Users\marvinpjr\Dropbox\Marvin\Code\BikiniDareScraper\BikiniDareScraper\obj\Debug\BikiniDareScraper.dll
+C:\Users\marvinpjr\Dropbox\Marvin\Code\BikiniDareScraper\BikiniDareScraper\obj\Debug\BikiniDareScraper.pdb

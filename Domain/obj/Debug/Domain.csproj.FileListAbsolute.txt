@@ -1,0 +1,15 @@
+C:\Users\marvinpjr\Dropbox\Marvin\Code\BikiniDareScraper\Domain\bin\Debug\Domain.dll
+C:\Users\marvinpjr\Dropbox\Marvin\Code\BikiniDareScraper\Domain\bin\Debug\Domain.pdb
+C:\Users\marvinpjr\Dropbox\Marvin\Code\BikiniDareScraper\Domain\obj\Debug\Domain.dll
+C:\Users\marvinpjr\Dropbox\Marvin\Code\BikiniDareScraper\Domain\obj\Debug\Domain.pdb
+C:\Users\pju8560\Dropbox\Marvin\Code\BikiniDareScraper\Domain\bin\Debug\Domain.dll
+C:\Users\pju8560\Dropbox\Marvin\Code\BikiniDareScraper\Domain\bin\Debug\Domain.pdb
+C:\Users\pju8560\Dropbox\Marvin\Code\BikiniDareScraper\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\pju8560\Dropbox\Marvin\Code\BikiniDareScraper\Domain\obj\Debug\Domain.dll
+C:\Users\pju8560\Dropbox\Marvin\Code\BikiniDareScraper\Domain\obj\Debug\Domain.pdb
+C:\Users\marvinpjr\Dropbox\Marvin\Code\BikiniDareScraper\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\marvinpjr\Dropbox\Marvin\Code\GitHub\bds\Domain\bin\Debug\Domain.dll
+C:\Users\marvinpjr\Dropbox\Marvin\Code\GitHub\bds\Domain\bin\Debug\Domain.pdb
+C:\Users\marvinpjr\Dropbox\Marvin\Code\GitHub\bds\Domain\obj\Debug\Domain.dll
+C:\Users\marvinpjr\Dropbox\Marvin\Code\GitHub\bds\Domain\obj\Debug\Domain.pdb
+C:\Users\marvinpjr\Dropbox\Marvin\Code\GitHub\bds\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache

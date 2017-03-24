@@ -1,0 +1,2 @@
+C:\Users\marvinpjr\Dropbox\Marvin\Code\BikiniDareScraper\Console\bin\Debug\Console.exe.config
+C:\Users\marvinpjr\Dropbox\Marvin\Code\BikiniDareScraper\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
